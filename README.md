@@ -1,5 +1,8 @@
 # 构建简单Windows Service示例
 
+> 1. 示例源码：[WindowsServiceSample](<https://github.com/YanZhiwei/WindowsServiceSample>)
+> 2. ServiceHelper源码：[ServiceHelper](<https://github.com/YanZhiwei/MasterChief/blob/master/MasterChief.DotNet4.Utilities/Common/ServiceHelper.cs>)
+
 #### 1. 创建Windows Service项目，如图：
 
 ![](https://8y5i1a.dm.files.1drv.com/y4mx2AAJ6Uz5HpxT-L6DwXx9QEckll5S9-Xuh8Z-l4GmbjE8xOJLboUmRX5FTiOsZZItK2m3e9M5oqIq9ufuDJlgVa7dlRaOvQ-yuUAJ86CPavK2r5-BByqPpRARi9AbZe7EDQTPGTL4sz796KdnId3R_wzvFn2hsNWeRIkN6ILjBkq2_7FL5si_ddZ_Ni895SkD_GDHzm7zBHu5OkbRsl7yg?width=1278&height=860&cropmode=none)
